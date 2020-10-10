@@ -23,7 +23,6 @@
 
 ## Week 5
 - HTTP request/response and URLs
-- ASP.NET Core
 
 ## Week 6
 - ASP.NET Core
