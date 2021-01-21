@@ -50,4 +50,3 @@
 
 ## Week 12
 - Cloud Deployment
-- Project Presentation
